@@ -8,6 +8,6 @@ setup(
     author_email='atmodevs@gmail.com',
     py_modules=['jwt'],
     install_requires=[
-        'pycrypto >= 2.6'
+        'pycryptodome >= 3.8.2'
     ]
 )
